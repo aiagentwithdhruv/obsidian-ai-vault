@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/home-dashboard.png" alt="AI Second Brain — Home Dashboard" width="800"/>
+  <img src="assets/graph-view.png" alt="AI Second Brain — Knowledge Graph" width="800"/>
 </p>
 
 <h1 align="center">AI Second Brain</h1>
@@ -233,11 +233,6 @@ Once connected, just ask Claude Code naturally:
 <p align="center">
   <img src="assets/home-dashboard.png" alt="Home Dashboard" width="700"/>
   <br/><em>Home dashboard — Quick Navigation, Active Projects, Recent Notes</em>
-</p>
-
-<p align="center">
-  <img src="assets/vault-open.png" alt="Vault Structure" width="700"/>
-  <br/><em>PARA folder structure with Smart Connections sidebar</em>
 </p>
 
 <p align="center">
