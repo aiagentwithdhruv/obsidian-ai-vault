@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/hotkeys.json
+.trash/
+
+# Smart Connections
+.smart-env/
+
+# Sensitive
+.env
+*.key
+credentials.*
+
+# OS
+.DS_Store
+Thumbs.db
